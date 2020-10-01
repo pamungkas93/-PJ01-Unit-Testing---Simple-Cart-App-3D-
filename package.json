@@ -1,0 +1,25 @@
+{
+  "name": "start",
+  "version": "0.0.1",
+  "description": "Aplikasi cart sederhana. Disadur dan dimodifikasi dari [https://github.com/kodeid-resources/simple-cart-app](https://github.com/kodeid-resources/simple-cart-app)",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Riza Fahmi <rizafahmi@gmail.com> (https://rizafahmi.com)",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "23.6.0",
+    "parcel-bundler": "1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hndr91/kuis1-ppl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hndr91/kuis1-ppl/issues"
+  },
+  "homepage": "https://github.com/hndr91/kuis1-ppl#readme"
+}
